@@ -51,7 +51,7 @@ const apps = [
   { name: 'jobs', url: 'https://jobs.my-apps.space', desc: 'job tracker' },
   { name: 'races', url: 'https://races.my-apps.space', desc: 'horse racing' },
   { name: 'budget', url: 'https://budget.my-apps.space', desc: 'budget tracker' },
-  { name: 'learn', url: 'https://learn.my-apps.space', desc: 'learning library' },
+  { name: 'buglog', url: 'https://buglog.my-apps.space', desc: 'bug collection' },
   { name: 'stocks', url: 'https://stocks.my-apps.space', desc: 'stock tracker' }
 ]
 
